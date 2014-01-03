@@ -1,3 +1,12 @@
+//----------------------------------------------------------------------------//
+//  Copyright Mostafa 2013. 
+//  Use, modification and distribution are subject to the
+//  Boost Software License, Version 1.0.  (See accompanying file
+//  LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
+//
+// For more information, see http://www.boost.org/libs/range/
+//----------------------------------------------------------------------------//
+
 #include <cstddef>
 #include <boost/type_traits/remove_all_extents.hpp>
 #include <boost/range/sub_range.hpp>
